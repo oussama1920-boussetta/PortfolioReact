@@ -1,0 +1,22 @@
+.main{
+    background-image: url("../Images/back.jpg");
+    display: flex;
+}
+.BarProgresse{
+   margin-bottom: 100px;
+   padding-left: 100px;
+   width: 800px;
+   margin-right: 50px;
+   /* border: solid; */
+}
+/* .cardo{
+    border: solid;
+} */
+.BarProgress{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+}
+h3{
+    color: rgb(226, 223, 240);
+}
